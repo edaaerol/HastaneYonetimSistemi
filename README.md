@@ -142,4 +142,4 @@ Hasta No: 1001 | Ad Soyad: Sude Sönmez | TC: 12345678910 | Tel: 0533-123-4567
 
 Bu proje **MIT Lisansı** altında paylaşılmıştır.  
 Kodlar eğitim ve kişisel projelerde özgürce kullanılabilir.
----
+------
